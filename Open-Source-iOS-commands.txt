@@ -1,7 +1,7 @@
 # From:
 # curl -i https://assets.rivian.com/xxx/xxx/xxx/Open-Source-iOS.pdf >Open-Source-iOS.pdf
 # pbpaste >Open-Source-iOS.txt
-# grep "\-\-\-" Open-Source-iOS.txt | sed 's/-------------------------------------------------------------------------//g' >README.md
+# grep "\-\-\-" Open-Source-iOS.txt | sed 's/-------------------------------------------------------------------------//g' >Open-Source-iOS-commands.txt
 #
 # yields:
 
